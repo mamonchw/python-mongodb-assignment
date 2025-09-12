@@ -9,7 +9,6 @@
    ```bash
    python -m venv .venv
    source .venv/bin/activate      # mac/linux
-   .venv\Scripts\activate       # windows
    ```
 
 2. Install packages:
@@ -22,7 +21,6 @@
   ```bash
   brew services start mongodb-community@7.0
   ```
-- Or run `mongod` directly depending on your install.
 
 ## Run app
 ```bash
