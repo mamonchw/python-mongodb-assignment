@@ -7,7 +7,7 @@
 ## Install
 1. Create venv:
    ```bash
-   python -m venv .venv
+   python3 -m venv .venv
    source .venv/bin/activate      # mac/linux
    ```
 
